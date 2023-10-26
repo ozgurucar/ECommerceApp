@@ -10,48 +10,60 @@ writeOrderList()” are not defined in the assignment but I wanted to improve Pr
 
 
 UML DIAGRAM
+
 ![image](https://github.com/ozgurucar/ECommerceApp/assets/98189629/327958c0-f8e5-4cff-a6f5-2230217196f1)
 
  
 GENERAL VİEW
+
 ![image](https://github.com/ozgurucar/ECommerceApp/assets/98189629/70344e0a-41ec-4010-b2a0-c8497d14bf63)
 
 
 TEST
 
 Creating user1 and user2 with their attributes
+
 ![image](https://github.com/ozgurucar/ECommerceApp/assets/98189629/404d0c26-b2ea-4d92-94e0-b01682d21d39)
 
 
 After create, printing on console
+
 ![image](https://github.com/ozgurucar/ECommerceApp/assets/98189629/68355a14-71cf-4b12-993c-6635e26739c1)
 
 
 Creating credit cards and they are attached with their owners
+
 ![image](https://github.com/ozgurucar/ECommerceApp/assets/98189629/22028c4f-3574-412f-b399-57a520fe0463)
 
 
 After create, printing on console
+
 ![image](https://github.com/ozgurucar/ECommerceApp/assets/98189629/f50a8439-971c-42d2-9779-7d41ca00c768)
 
  
 Creating products and printing informations again
+
 ![image](https://github.com/ozgurucar/ECommerceApp/assets/98189629/7161d1aa-ea63-488b-8867-dd23e85ae77f)
+
 ![image](https://github.com/ozgurucar/ECommerceApp/assets/98189629/3f9bb904-af9f-4ce1-a90a-8b2b31d576be)
 
 
 
 Making orders by individual user
+
 ![image](https://github.com/ozgurucar/ECommerceApp/assets/98189629/1f9bf821-fe7b-4c95-b2e8-595894f32967)
 
 
 
 If stock is not enough, printing error on console
+
 ![image](https://github.com/ozgurucar/ECommerceApp/assets/98189629/f002578b-0cc8-4711-b4eb-407861c9448a)
 
 
 If everything is okay, printing new product stock informations after “Order Confirmed!” message
+
 ![image](https://github.com/ozgurucar/ECommerceApp/assets/98189629/8cf17017-3e52-4100-be66-14583845f457)
+
 ![image](https://github.com/ozgurucar/ECommerceApp/assets/98189629/220eaaa6-7aae-400c-a67b-b5225258aed1)
 
  
